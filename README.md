@@ -31,4 +31,4 @@
    - ``` .\bin\windows\kafka-console-consumer.bat --bootstrap-server localhost:9092 --topic topic-name --from-beginning ```
   
   ## Service windows with output
-  
+  - ![result](Capture.JPG)
